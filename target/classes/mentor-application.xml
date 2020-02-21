@@ -61,8 +61,7 @@
    				<value>com.mentor.hibernet.model.Mentor</value>
    				<value>com.mentor.hibernet.model.Skills</value>
    				<value>com.mentor.hibernet.model.TrainingDetails</value>
-   				<value>com.mentor.hibernet.model.User</value>
-   				
+   				<value>com.mentor.hibernet.model.User</value>		
   			</list>
   		</property>
 <!-- 		<property name="hibernateProperties"> -->
